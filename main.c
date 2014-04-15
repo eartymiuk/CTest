@@ -3,7 +3,8 @@
 void main ()
 {
 	printf("Hello, World");
-	if (false && false)
+	int booleanValue = 1;
+	if (booleanValue)
 	{
 		printf("Hey what up!");
 	}
