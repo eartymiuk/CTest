@@ -2,5 +2,9 @@
 
 void main ()
 {
-	printf(", World");
+	printf("Hello, World");
+	if (true)
+	{
+		printf("Hey what up!");
+	}
 }
