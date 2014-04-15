@@ -3,7 +3,7 @@
 void main ()
 {
 	printf("Hello, World");
-	if (false && false)
+	if (true)
 	{
 		printf("Hey what up!");
 	}
